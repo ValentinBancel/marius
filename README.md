@@ -9,3 +9,5 @@ For all day you must create the folder with days number in your exercice folder(
 all of your python file (.py) must push
 
 If you need help, go into the help folder. A readme file is created for all day. read it and complete with personal search on **stack overflow** or **chatGPT**
+
+# **All of python file are on .py extension, all of html file are on .html extension and it's same for css and js file**
